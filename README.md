@@ -1,4 +1,4 @@
-Hi, I'm Mohd Suleman Siddiqui 👋
+Hi, I'm **Mohd Suleman Siddiqui** 👋
 Full Stack Developer | Building Scalable, Efficient, and User-Centric Web Applications
 
 I’m a Full Stack Developer passionate about crafting seamless, high-performance applications. I specialize in both front-end and back-end development, using modern technologies to deliver clean, efficient code and innovative solutions.
